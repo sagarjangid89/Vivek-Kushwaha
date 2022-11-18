@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tiko_DataAccess\Tiko_DataAccess.csproj" />
+    <ProjectReference Include="..\Tiko_Entities\Tiko_Entities.csproj" />
+  </ItemGroup>
+
+</Project>
